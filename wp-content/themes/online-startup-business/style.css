@@ -1,0 +1,303 @@
+/*
+Theme Name: Online Startup Business
+Theme URI: https://www.buywpthemes.net/products/free-tech-startup-wordpress-theme/
+Author: Peccular
+Author URI: https://www.buywpthemes.net/
+Description: For people considering a start-up, who are looking for a presence online, Online Startup Business WordPress Theme will prove to be great for you. It’s well aligned, attractively designed, and appears very professional in looks as well as functionalities.  Our team after a whole lot of research and talking to self-made people in businesses has gained an insight from their experience and created a theme where you can clearly see focused clarity and relevant approach that you’re going to require in your start-up business presence to showcase various aspects of your business to share with your customers. Online Startup Business WordPress Theme is a firsthand reflection of people’s experiences and observations, who have achieved success in their business. The inputs shared by them have been translated into design to create the theme that we herewith present to you. The feature that stands this theme apart is that it is designed to be managed without having to hire a developer. One you download and install this theme you will be able to manage it yourself with a little practice and familiarity.  It comes with a Dashboard from where you can change images, update content, and replace old information with new and so on. A theme designed with clarity and an eye on your customer psyche is more likely to help you succeed than casually designed ill-equipped themes. To use Online Startup Business WordPress Theme all you need is a domain name that you’ve registered and hosting space. You save substantial cost by using this theme and you can use it for as long as you need it without any conditions. The theme will make a good impression on your customer, and will drive business your way.  People will connect with you to do business, build community of followers, subscribers and anything else that you may want to achieve through online presence. Online Startup Business WordPress Theme is for newbie who does not have much knowledge about maintaining an online presence as well as established entrepreneurs who are attempting a start-up to float a new idea.  Go for it! Download and install Online Startup Business WordPress Theme Now!  
+Version: 0.1
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: online-startup-business
+Slug: online-startup-business
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.waves {
+    position: absolute;
+    width: 100%;
+    height: 31vh;
+    margin-bottom: -7px;
+    min-height: 100px;
+    max-height: 150px;
+    bottom: 0;
+}
+.pl-0{padding-left:0;  }
+.m-rl{margin-right: 0;margin-left: 0}
+#slider-section{
+    /* position: relative;
+    overflow: hidden; */
+/*    background: url(assets/images/sliderimage.png);*/
+    /*background-repeat: no-repeat;
+    background-size: cover;*/
+    background: #fff;
+}
+#slider-section .sl-r-img{position: relative;float: right;right: 10%;top: 10%;z-index: -1;}
+#slider-section .sl-r-img img {
+    position: relative;
+    z-index: 5;
+    width: 625px;
+    height: 590px;
+    top: 50%;
+    right: 25px;
+}
+#slider-section .sl-r-img img {
+    -webkit-mask-image: url(assets/images/sliderbg2.png);
+    mask-image: url(assets/images/sliderbg2.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+}
+#slider-section .sl-r-img .slidersvg2{
+    -webkit-mask-image: url(assets/images/sliderbg.png);
+    mask-image: url(assets/images/sliderbg.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+    position: absolute;
+    left: 7%;
+    z-index: 22;
+    height: 585px;
+    width: 510px;
+    top: 0%;
+    background: #EF6135;
+    bottom: 65px;
+    /* left: 0; */
+/*     margin: 0 auto;*/
+    animation: animatearrow 10s infinite;
+}
+
+#slider-section .topimg{
+    position: absolute;
+    right: -4%;
+    top: 50px;
+    transform: rotate(179deg); 
+}
+#slider-section .bmimg{
+    position: absolute;
+    left: 0%;
+    bottom: -100px;
+    transform: rotate(179deg); 
+}
+.slider-line {
+    width: 140px;
+    height: 33px;
+    position: absolute;
+    overflow: hidden;
+    background-color: #EF6135;
+    margin: 100px auto;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    transform: rotate(-45deg);
+    left: -45px;
+}
+.slider-line2 {
+    width: 424px;
+    height: 35px;
+    position: absolute;
+    overflow: hidden;
+    background-color: #EF6135;
+    margin: 0px auto;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    transform: rotate(-40deg);
+    right: -5%;
+    bottom: 33%;
+}
+#slider-section .planesvg {
+    position: relative;
+    top: -1em;
+    left: 24%;
+}
+/**/
+#service-section .planesvg svg {
+    position: relative;
+    /* padding: 0px 0 0 100px; */
+    top: -10px;
+    left: 52px;
+}
+
+#service-section {
+    position: relative;
+    overflow: hidden;
+    padding:4em 0 0em 0;
+    overflow: hidden;
+/*    background: #17212a url(assets/images/servicesbg.png) center;*/
+    background: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.blog-area .blog-img{
+    /* -webkit-mask-image: url(assets/images/blog_m.png);
+    mask-image: url(assets/images/blog_m.png); */
+    -webkit-mask-position: center center;
+/*    mask-position: center center;*/
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+.blog-area .blog-image:before{
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    /* border-top-left-radius: 174px; */
+    /* border-top-right-radius: 312px; */#slider-section .planesvg {
+    position: relative;
+    top: -2em;
+    left: 0%;
+}
+    /* border-bottom-left-radius: 291px; */
+    /* border-bottom-right-radius: 200px; */
+    background: #e2bc95;
+    transition: all .4s;
+    top: 0px;
+    right: 7px;
+    border-radius: 256px 237px 252px / 209px 311px;
+    transform: rotate(44deg);
+}
+.footer-area {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    z-index: 1;
+    padding:4em 0 0em 0;
+    overflow: hidden;
+    /* background: url(assets/images/footer.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-area .f-oly{
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    opacity: 1;
+}
+
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+
+.recentcomments a {
+    display: inline-block !important;
+    padding-left: 18px !important;
+    margin: 0 !important;
+}
+
+/*.slider-img-overlay {
+    position: absolute;
+    left: 0;
+    right: 52.5%;
+    top: 0;
+    bottom: 0;
+    background: #161415;
+    opacity: 1;
+    clip-path: polygon(0 0, 67% 0, 100% 100%, 0% 100%);
+}
+.slider-img-overlay-outer {
+    position: absolute;
+    left: 0;
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    background: #fff;
+    opacity: 1;
+    clip-path: polygon(0 0, 68% 0, 100% 100%, 0% 100%);
+}*/
+/*Shrinking for mobile*/
+@media (max-width: 991px) {
+/*.slider-img-overlay-outer {  right: 35%;}
+.slider-img-overlay { right: 38.5%;}*/
+}
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:40px;
+  }
+  .videos {
+    position: relative;
+    top: 0;
+  }
+  #aboutus-section {
+    padding: 1em 0em 2em 0em;
+  }
+}
+@media (max-width: 767px) {
+    .hero-slider {height: 500px;}
+     #slider-section .slidercontent {top: 50%;left: 2%;}
+     #slider-section .sl-r-img img{right: 0;}
+    #slider-section .sl-r-img{
+    position: absolute;  
+    top: 0%;
+    right: 0;
+}
+}
+
+@media (max-width: 768px) {
+    .slider-line,.slider-line2 ,#slider-section .topimg,#slider-section .bmimg,
+    #slider-section .planesvg{display: none !important;}
+
+}
+
+@media (max-width: 575px) {
+.hero-slider { height: 360px;}
+#slider-section .slidercontent {top: 20%;}
+#slider-section .sl-r-img img { width: 325px !important; height: 390px !important;}
+#slider-section .sl-r-img .slidersvg2 {height: 401px !important;width: 279px !important;}
+}
+
+
+@media (max-width: 320px) {
+    .hero-slider {
+        height: 390px;
+    }
+}
+
+

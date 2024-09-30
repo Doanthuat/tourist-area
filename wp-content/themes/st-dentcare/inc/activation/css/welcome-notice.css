@@ -1,0 +1,226 @@
+.st-notice {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border-left: solid 4px #5755FE;
+  box-shadow: 0 0 5px rgb(0 0 0 / 0.1);
+  padding: 30px !important;
+}
+
+.st-notice .welcome-message {
+  max-width: 650px;
+}
+
+.st-notice .welcome-message h1 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.st-notice .welcome-message p {
+  font-size: 14px;
+}
+
+.st-notice .welcome-message .action-buttons {
+  margin-top: 30px;
+}
+
+.st-notice .welcome-message .action-buttons a {
+  padding: 7px 20px;
+  background-color: #5755FE;
+  box-shadow: none !important;
+  font-weight: bold;
+}
+
+.st-notice .welcome-message .action-buttons a:hover {
+  background-color: #4a48d6;
+}
+
+.st-notice .welcome-message .action-buttons a .dashicons {
+  font-size: 12px;
+  line-height: 30px;
+}
+
+.st-notice .image-wrap {
+  text-align: right;
+}
+
+.st-notice .image-wrap img {
+  display: inline-block;
+}
+
+@media screen and (max-width: 1366px) {
+    .st-notice .image-wrap img {
+      max-width: 90%;
+    }
+
+  .st-notice .welcome-message p {
+    font-size: 13px;
+  }
+}
+
+.dot-flashing {
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: -1px;
+  position: relative;
+  width: 3px;
+  height: 3px;
+  border-radius: 10px;
+  background-color: #3c434a;
+  color: #3c434a;
+  -webkit-animation: dotFlashing 1s infinite linear alternate;
+          animation: dotFlashing 1s infinite linear alternate;
+  -webkit-animation-delay: .5s;
+          animation-delay: .5s;
+}
+
+.dot-flashing::before, .dot-flashing::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+
+.dot-flashing::before {
+  left: -6px;
+  width: 3px;
+  height: 3px;
+  border-radius: 10px;
+  background-color: #3c434a;
+  color: #3c434a;
+  -webkit-animation: dotFlashing 1s infinite alternate;
+          animation: dotFlashing 1s infinite alternate;
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+}
+
+.dot-flashing::after {
+  left: 6px;
+  width: 3px;
+  height: 3px;
+  border-radius: 10px;
+  background-color: #3c434a;
+  color: #3c434a;
+  -webkit-animation: dotFlashing 1s infinite alternate;
+          animation: dotFlashing 1s infinite alternate;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+@-webkit-keyframes dotFlashing {
+  0% {
+    background-color: #3c434a;
+  }
+  50%,
+  100% {
+    background-color: #ebe6ff;
+  }
+}
+
+@keyframes dotFlashing {
+  0% {
+    background-color: #3c434a;
+  }
+  50%,
+  100% {
+    background-color: #ebe6ff;
+  }
+}
+
+.view-demo{
+  background: #FAA300 !important;
+  border: solid 1px #FAA300 !important;
+}
+.view-demo:hover{
+  background: #e09201 !important;
+}
+
+.buy-now {
+  background: #4CAF50 !important;
+  color: white;
+  padding: 10px 20px;
+  border: solid 1px #4CAF50 !important;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  font-weight: bold;
+}
+.buy-now:hover{
+  background: #3b883d !important;
+}
+.buy-now::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.5) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-radius: 50%;
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* compare-feature Css start */
+.compare-feature{
+  width: 29%;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+.st-compare-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: -8px;
+}
+.st-compare-th, .st-compare-td, .st-compare-td-pro , .st-compare-td-free, .st-compare-th-pro {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+.st-compare-th , .st-compare-th-pro {
+  background-color: #023252;
+  text-align: center;
+  color: white;
+}
+
+.st-compare-td-pro, .st-compare-td-free {
+  text-align: center;
+}
+.compare-feature img{
+  width: 18px;
+}
+.st-portal-btn a{
+  margin-bottom: 10px !important;
+  font-weight: bold;
+  text-align: center;
+  width: 49.5%;
+  padding: 5px !important;
+  border-radius: 25px !important;
+}
+.feature-comparison{
+  text-align: center;
+  background-color: #5f3afc;
+  color: white;
+  margin-top: 0;
+  padding: 8px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: poppins;
+}

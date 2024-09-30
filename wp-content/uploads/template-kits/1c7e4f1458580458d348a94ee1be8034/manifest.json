@@ -1,0 +1,1317 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Printey - Printing Business Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/printey.tokotema.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Details",
+            "screenshot": "screenshots\/project-details.png",
+            "source": "templates\/project-details.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/project-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.png",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.png",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter MetForm",
+            "screenshot": "screenshots\/newsletter-metform.png",
+            "source": "templates\/newsletter-metform.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/newsletter-metform\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us Metform",
+            "screenshot": "screenshots\/contact-us-metform.png",
+            "source": "templates\/contact-us-metform.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/contact-us-metform\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/printey.tokotema.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.14.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.14",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Shape-Background-1.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Shape-Background-1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4991,
+            "dimensions": [
+                488,
+                476
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        },
+        {
+            "filename": "embarrassed-surprised-dark-skinned-female-model-do-2022-02-03-07-52-35-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/embarrassed-surprised-dark-skinned-female-model-do-2022-02-03-07-52-35-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 224419,
+            "dimensions": [
+                488,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Shape-Background-3.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Shape-Background-3.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6174,
+            "dimensions": [
+                488,
+                652
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        },
+        {
+            "filename": "emotional-dark-skinned-woman-drops-jaw-stares-with-2021-08-31-09-12-53-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/emotional-dark-skinned-woman-drops-jaw-stares-with-2021-08-31-09-12-53-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 106109,
+            "dimensions": [
+                488,
+                592
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Shape-Background-2.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Shape-Background-2.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4995,
+            "dimensions": [
+                488,
+                476
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        },
+        {
+            "filename": "joyous-dark-skinned-young-lady-poses-with-mobile-p-2022-02-03-06-32-55-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/joyous-dark-skinned-young-lady-poses-with-mobile-p-2022-02-03-06-32-55-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 258109,
+            "dimensions": [
+                488,
+                449
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Brochure-Projects-1.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Projects-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 300911,
+            "dimensions": [
+                1428,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Brochure-Projects-2.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Projects-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 62844,
+            "dimensions": [
+                884,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Brochure-Projects-3.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Projects-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 108434,
+            "dimensions": [
+                884,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Brochure-Mockup.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Mockup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 83326,
+            "dimensions": [
+                616,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Poster-Mockup.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Poster-Mockup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 106990,
+            "dimensions": [
+                616,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Packaging-Mockup.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Packaging-Mockup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 177257,
+            "dimensions": [
+                616,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "optimistic-carefree-curly-haired-woman-clenches-fi-2023-03-20-23-47-30-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/optimistic-carefree-curly-haired-woman-clenches-fi-2023-03-20-23-47-30-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 119619,
+            "dimensions": [
+                590,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "horizontal-shot-of-shocked-curly-haired-woman-reac-2023-02-02-18-26-17-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/horizontal-shot-of-shocked-curly-haired-woman-reac-2023-02-02-18-26-17-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 278442,
+            "dimensions": [
+                488,
+                452
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "surprised-young-woman-screaming-in-excitement-2022-11-15-10-49-57-utc.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/surprised-young-woman-screaming-in-excitement-2022-11-15-10-49-57-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6614,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "unbelievable-offer-amazed-caucasian-guy-in-casual-2022-12-16-08-11-16-utc.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/unbelievable-offer-amazed-caucasian-guy-in-casual-2022-12-16-08-11-16-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8006,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "studio-shot-of-amazed-brunet-man-keeps-hand-on-rim-2022-12-20-16-48-49-utc.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/studio-shot-of-amazed-brunet-man-keeps-hand-on-rim-2022-12-20-16-48-49-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5932,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Logo-Client-1.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Logo-Client-1.png",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4921,
+            "dimensions": [
+                123,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Logo-Client-2.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Logo-Client-2.png",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4425,
+            "dimensions": [
+                173,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Logo-Client-3.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Logo-Client-3.png",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4192,
+            "dimensions": [
+                78,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Logo-Client-4.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Logo-Client-4.png",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4764,
+            "dimensions": [
+                148,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Logo-Client-5.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Logo-Client-5.png",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2321,
+            "dimensions": [
+                122,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Business-Card-Mockup.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Business-Card-Mockup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 93127,
+            "dimensions": [
+                616,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Banner-Display-Mockup.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Banner-Display-Mockup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 89772,
+            "dimensions": [
+                616,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Wedding-Card-Mockup.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Wedding-Card-Mockup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 82475,
+            "dimensions": [
+                616,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Business-Card-Mockup-Large.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Business-Card-Mockup-Large.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 92015,
+            "dimensions": [
+                2400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Replace-This.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Replace-This.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 214756,
+            "dimensions": [
+                664,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "portrait-of-bearded-guy-using-smartphone-with-chee-2022-12-16-11-38-09-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/portrait-of-bearded-guy-using-smartphone-with-chee-2022-12-16-11-38-09-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 118802,
+            "dimensions": [
+                356,
+                336
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "indoor-shot-of-smiling-european-girl-points-at-dis-2022-02-05-03-41-23-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/indoor-shot-of-smiling-european-girl-points-at-dis-2022-02-05-03-41-23-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 137079,
+            "dimensions": [
+                356,
+                335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "cheerful-blond-man-pointing-away-2022-11-23-00-43-31-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/cheerful-blond-man-pointing-away-2022-11-23-00-43-31-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 116343,
+            "dimensions": [
+                356,
+                356
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "young-woman-with-hands-in-pockets-wearing-blank-w-2022-10-05-18-28-14-utc-1.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/young-woman-with-hands-in-pockets-wearing-blank-w-2022-10-05-18-28-14-utc-1.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 98827,
+            "dimensions": [
+                356,
+                344
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "happy-man-eating-poke-2022-10-03-19-26-42-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/happy-man-eating-poke-2022-10-03-19-26-42-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 139010,
+            "dimensions": [
+                348,
+                356
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "positive-carefree-female-office-worker-tries-to-re-2021-08-31-05-43-01-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/positive-carefree-female-office-worker-tries-to-re-2021-08-31-05-43-01-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 169118,
+            "dimensions": [
+                356,
+                356
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "young-woman-with-hands-in-pockets-wearing-blank-w-2022-10-05-18-28-14-utc-2.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/young-woman-with-hands-in-pockets-wearing-blank-w-2022-10-05-18-28-14-utc-2.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 5184,
+            "dimensions": [
+                64,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Brochure-Minimalist-View-3.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Minimalist-View-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 123543,
+            "dimensions": [
+                712,
+                536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Brochure-Minimalist-View-2.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Minimalist-View-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 77393,
+            "dimensions": [
+                712,
+                536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Brochure-Minimalist-View-1.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Minimalist-View-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 79419,
+            "dimensions": [
+                712,
+                536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Hero-Shape-Background.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Hero-Shape-Background.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6668,
+            "dimensions": [
+                895,
+                432
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        },
+        {
+            "filename": "photo-of-cheerful-woman-hears-amazing-news-makes-f-2022-12-23-00-28-27-utc.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/photo-of-cheerful-woman-hears-amazing-news-makes-f-2022-12-23-00-28-27-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 286698,
+            "dimensions": [
+                387,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Tshirt-Mockup.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Tshirt-Mockup.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 93725,
+            "dimensions": [
+                570,
+                410
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Blue-Business-Card.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Blue-Business-Card.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 128022,
+            "dimensions": [
+                570,
+                412
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Shape-Background-5.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Shape-Background-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3523,
+            "dimensions": [
+                580,
+                372
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        },
+        {
+            "filename": "Totebag.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Totebag.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 125618,
+            "dimensions": [
+                352,
+                304
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Shape-Background-4.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Shape-Background-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3703,
+            "dimensions": [
+                580,
+                372
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        },
+        {
+            "filename": "Brochure-Mockup-Small.jpg",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Brochure-Mockup-Small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 45053,
+            "dimensions": [
+                352,
+                304
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EZ5L8T9S76?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Dark.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Dark.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4599,
+            "dimensions": [
+                277,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        },
+        {
+            "filename": "Logo-Light.png",
+            "thumbnail_url": "https:\/\/printey.tokotema.com\/wp-content\/uploads\/2023\/06\/Logo-Light.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4877,
+            "dimensions": [
+                277,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "tokotema.com"
+        }
+    ]
+}
